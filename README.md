@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F14A00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+Full+Stack+developer;Coding+is+my+passion!;Exploring+new+tech+every+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F14A00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+Web+Developer;Coding+is+my+passion!;Exploring+new+tech+every+day!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <a class="username" href="https://github.com/nguyenvuongviet"> NGUYEN VUONG VIET </a></h1>
