@@ -1,8 +1,8 @@
-<p>
+<!-- <p>
     <a href="#">
         <img align="center"src="./asset/banner1.png" alt="nguyenvuongviet"/>
     </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F14A00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+Full+Stack+developer;Coding+is+my+passion!;Exploring+new+tech+every+day!" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <a href="https://github.com/nguyenvuongviet">
+  <a href="#-profile-views">
     <img src="https://komarev.com/ghpvc/?username=nguyenvuongviet&style=for-the-badge&color=859F3D" alt="Profile views" />
   </a>
 </p>
