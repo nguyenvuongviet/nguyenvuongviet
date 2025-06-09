@@ -1,6 +1,6 @@
 <p>
     <a href="#">
-        <img align="center"src="./asset/banner.png" alt="nguyenvuongviet"/>
+        <img align="center"src="./asset/banner1.png" alt="nguyenvuongviet"/>
     </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://github.com/nguyenvuongviet">
-    <img src="https://komarev.com/ghpvc/?username=nguyenvuongviet&style=for-the-badge&color=1F7D53" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=nguyenvuongviet&style=for-the-badge&color=859F3D" alt="Profile views" />
   </a>
 </p>
 
