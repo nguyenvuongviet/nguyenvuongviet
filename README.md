@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="#-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nguyenvuongviet&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=nguyenvuongviet&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
