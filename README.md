@@ -79,25 +79,32 @@
 
 ## 🚀 Top Respositorys:
 
-<p align="center">
-  <a href="https://github.com/nguyenvuongviet/AirBnB" target="_blank">
-    <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=AirBnB&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
-  </a>
-  <a href="https://github.com/nguyenvuongviet/api-airbnb" target="_blank">
-    <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=api-airbnb&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
-  </a>
-  <a href="https://github.com/nguyenvuongviet/movie" target="_blank">
-    <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=movie&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
-  </a>
-  </a>
-     <a href="https://github.com/nguyenvuongviet/express-orm-pinterest" target="_blank">
-    <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=express-orm-pinterest&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
-  </a>
-</p>
+<table style="margin: 0 auto; border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td>
+      <a href="https://github.com/nguyenvuongviet/AirBnB" target="_blank">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=AirBnB&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nguyenvuongviet/api-airbnb" target="_blank">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=api-airbnb&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nguyenvuongviet/movie" target="_blank">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=movie&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nguyenvuongviet/express-orm-pinterest" target="_blank">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=express-orm-pinterest&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Insights
 
