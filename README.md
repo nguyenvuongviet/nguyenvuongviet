@@ -24,8 +24,8 @@
 <img align="right" width="300" src="./asset/coding.gif" alt="coding" />
 
 - 🌱 I’m currently learning **Web Developer**
-  <!-- - 💬 Ask me about **** -->
-  <!-- - 🌐 Personal website: **<a href="">nguyenvuongviet</a>** -->
+- 💬 Ask me about **#**
+- 🌐 Personal website: **<a href="https://nguyenvuongviet.vercel.app/">nguyenvuongviet</a>**
 - 📫 Email me **nguyenvuongviet2k4@gmail.com**
 - 📄 My CV: **<a href="https://docs.google.com/document/d/12ZQv_my1axF4oBqg-kQqIoxwvUFM4LXJ0bA9NPv3XPk/edit?usp=sharing" target="_blank">EN</a>**
 <!-- / **<a href="" target="_blank">VI</a>** -->
