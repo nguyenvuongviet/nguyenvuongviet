@@ -93,9 +93,9 @@
       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=movie&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
   </a>
   </a>
-  <a href="https://github.com/nguyenvuongviet/express-orm-pinterest" target="_blank">
+  <a href="https://github.com/nguyenvuongviet/api-pinterest-express" target="_blank">
     <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=express-orm-pinterest&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenvuongviet&repo=api-pinterest-express&theme=dracula&show_icons=false" alt="github-readme-streak-stats" width="278"/>
   </a>
 </p>
 
