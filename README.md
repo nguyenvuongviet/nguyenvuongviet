@@ -27,7 +27,7 @@
 - 💬 Ask me about **#**
 - 🌐 Personal website: **<a href="https://nguyenvuongviet.vercel.app/">nguyenvuongviet</a>**
 - 📫 Email me **nguyenvuongviet2k4@gmail.com**
-- 📄 My CV: **<a href="https://docs.google.com/document/d/12ZQv_my1axF4oBqg-kQqIoxwvUFM4LXJ0bA9NPv3XPk/edit?usp=sharing" target="_blank">EN</a>**
+- 📄 My CV: **<a href="https://docs.google.com/document/d/1B3m38T9D6aY9MIUnnBucwK0Cf5g-MXFByZhGgqQ-AUo/edit?usp=sharing" target="_blank">EN</a>**
 <!-- / **<a href="" target="_blank">VI</a>** -->
 - ⚡ Fun fact: _"I love clean code and being meticulous in every detail!"_
 
