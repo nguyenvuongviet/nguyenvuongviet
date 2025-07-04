@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F14A00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+Web+Developer;Coding+is+my+passion!;Exploring+new+tech+every+day!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <a class="username" href="https://github.com/nguyenvuongviet"> NGUYEN VUONG VIET </a></h1>
+<h1 align="center">Hi 👋, I'm <a class="username" href="https://nguyenvuongviet.vercel.app/"> NGUYEN VUONG VIET </a></h1>
 <h3 align="center">A 4th-year Software Engineering student from 🇻🇳 HCMUTE</h3>
 
 ## 👀 Profile Views
@@ -131,4 +131,4 @@
   </a>
 </p>
 
-⭐️ _Built with passion by_ [@nguyenvuongviet](https://github.com/nguyenvuongviet)
+⭐️ _Built with passion by_ [@nguyenvuongviet](https://nguyenvuongviet.vercel.app/)
