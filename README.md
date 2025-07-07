@@ -1,6 +1,6 @@
 <!-- <p>
     <a href="#">
-        <img align="center"src="./asset/banner1.png" alt="nguyenvuongviet"/>
+        <img align="center"src="./asset/banner.png" alt="nguyenvuongviet"/>
     </a>
 </p> -->
 
