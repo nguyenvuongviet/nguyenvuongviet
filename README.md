@@ -65,7 +65,7 @@
 
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,ts,js,docker,firebase"
+        src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,ts,js,docker"
     />
 </p>
 
